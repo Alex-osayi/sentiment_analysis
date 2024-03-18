@@ -10,12 +10,12 @@ The script essentially demonstrates how to perform sentiment analysis on data us
 ## 🛠️Installation
 - Clone this repository to your local machine:
 
-bash code
+bash code:
 git clone https://github.com/yourusername/sentiment_analysis.git
 
 - Navigate to the project directory:
 
-bash code
+bash code:
 cd customer-feedback-sentiment-analysis
 
 ## 👯Contribution
