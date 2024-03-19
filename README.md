@@ -18,13 +18,13 @@ The script essentially demonstrates how to perform sentiment analysis on data us
 ## Installation 
 - Clone this repository to your local machine:
 
-_bash code:_
-git clone https://github.com/yourusername/sentiment_analysis.git
+   ```bash
+   git clone https://github.com/yourusername/sentiment_analysis.git
 
 - Navigate to the project directory:
 
-_bash code:_
-cd customer-feedback-sentiment-analysis
+   ```bash
+   cd customer-feedback-sentiment-analysis
 
 ## Usage
 - Prepare your customer feedback data. 
@@ -34,13 +34,16 @@ cd customer-feedback-sentiment-analysis
 - Analyze the generated output, which will contain sentiment analysis results.
 
 ## Dependencies
-Additionally, you need to have spaCy and the SpacyTextBlob library installed in your Python environment to run this code.
+You need to have the following libraries installed in your Python environment to run this code.
+- spaCy: Python library for natural language processing 
+- SpacyTextBlob: SpacyTextBlob primarily focuses on sentiment analysis aspects of TextBlob 
+
 
 ## 👯Contribution
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 - Fork the repository.
-- Create a new branch (git checkout -b feature/improvement)
+- Create a new branch 
 - Make your changes.
-- Commit your changes (git commit -am 'Add new feature')
-- Push to the branch (git push origin feature/improvement)
+- Commit your changes 
+- Push to the branch 
 - Create a new Pull Request.
